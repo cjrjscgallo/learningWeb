@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="styles/stylesheet" href="football.css">
+</head>
+<body>
+    <h2>League 1</h2>
+    <ol>
+        <li lang="en-GB" data-perf="inc-pro">Manchester United</li>
+        <li lang="es" data-perf="same-pro">Barcelona</li>
+        <li lang="de" data-perf="dec">Bayern Munich</li>
+        <li lang="es" data-perf="same">Real Madrid</li>
+        <li lang="de" data-perf="inc-rel">Borussia Dortmund</li>
+        <li lang="en-GB" data-perf="dec-rel">Southampton FC</li>
+    </ol>
+    <h2>League 2</h2>
+    <ol>
+        <li>Queen City Shamrocks</li>
+        <li>Dayton Kids</li>
+        <li>Delhi Roughnecks</li>
+        <li>Canton Redskins</li>
+    </ol>
+</body>
+</html>
