@@ -62,6 +62,15 @@ li {
     width: 250px;
 }
 
+li:hover {
+    color: red;
+}
+
+h2:hover {
+    background-color: aquamarine;
+    width: 290px;
+}
+
 h2 {
     font-family: "Copperplate Gothic Light";
 }
