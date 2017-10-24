@@ -1,0 +1,76 @@
+li[lang|=en] {
+    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/en-GB.png") 5px center no-repeat;
+}
+
+li[lang|=de] {
+    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/de.png") 5px center no-repeat;
+}
+
+li[lang|=es] {
+    background: url("http://mdn.github.io/learning-area/css/introduction-to-css/css-selectors/es.png") 5px center no-repeat;
+}
+
+
+li[lang|=us] {
+    background: url("../images/us-flag.jpg") 5px center no-repeat;
+}
+
+
+li[data-perf] {
+    background-color: palegoldenrod;
+}
+
+li[data-perf|=inc] {
+    background-color: rgba(0,255,0,0.7);
+}
+
+li[data-perf|=same] {
+    background-color: rgba(0,0,255,0.5);
+}
+
+li[data-perf|=dec] {
+    background-color: rgba(255,0,0,0.7);
+}
+
+li[data-perf*=pro] {
+    font-weight: bold;
+}
+
+li[data-perf*=rel] {
+    font-style: italic;
+    color: #666;
+}
+
+li[attributeX|=standard] {
+    color: darkred;
+    font-weight: bold;
+}
+
+ol {
+    padding: 0;
+}
+
+.preseason {
+    background-color: yellow;
+}
+
+li {
+    padding: 3px 3px 3px 34px;
+    margin-bottom: 5px;
+    list-style-position: inside;
+    background-color: lavender;
+    width: 250px;
+}
+
+li:hover {
+    color: red;
+}
+
+h2:hover {
+    background-color: aquamarine;
+    width: 290px;
+}
+
+h2 {
+    font-family: "Copperplate Gothic Light";
+}
