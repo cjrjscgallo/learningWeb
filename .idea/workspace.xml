@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f62dd0e6-b651-40ad-ac6c-994f68808bac" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/styles/football.css" afterPath="$PROJECT_DIR$/styles/football.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -672,12 +673,12 @@
       <workItem from="1504729667640" duration="1828000" />
       <workItem from="1505326351133" duration="2232000" />
       <workItem from="1507660116727" duration="1366000" />
-      <workItem from="1508784504794" duration="7703000" />
+      <workItem from="1508784504794" duration="8349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27041000" />
+    <option name="totallyTimeSpent" value="27687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
